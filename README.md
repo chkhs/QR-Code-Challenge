@@ -15,6 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
+<img width="1657" alt="Screenshot 2024-03-15 at 10 55 10 PM" src="https://github.com/chkhs/QR-Code-Challenge/assets/139511273/79c1132f-1c0f-462f-89a8-29134d83d73c">
 
 
 
